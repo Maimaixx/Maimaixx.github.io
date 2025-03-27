@@ -1,0 +1,37 @@
+# Ignore Node.js dependencies (if using tools like webpack, vite, etc.)
+node_modules/
+
+# Ignore build output (if you generate your site into 'dist' or 'build')
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Ignore temporary files and editor settings
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.sass-cache
+.cache/
+.vscode/
+.idea/
+
+# Jekyll build output (if using Jekyll)
+_site/
+
+# Ignore environment files (if used)
+.env
+.env.*
+
+# Ignore GitHub-specific files that shouldn't be tracked
+.github/workflows/*.log
