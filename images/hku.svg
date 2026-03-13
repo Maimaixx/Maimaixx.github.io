@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="128" height="128">
+  <rect width="200" height="200" fill="#00623B" rx="10"/>
+  <text x="100" y="100" font-family="Georgia, serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">HKU</text>
+  <text x="100" y="140" font-family="Georgia, serif" font-size="9" fill="white" text-anchor="middle">The University of</text>
+  <text x="100" y="155" font-family="Georgia, serif" font-size="9" fill="white" text-anchor="middle">Hong Kong</text>
+</svg>
