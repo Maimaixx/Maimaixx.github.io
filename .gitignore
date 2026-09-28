@@ -1,6 +1,10 @@
 # macOS
 .DS_Store
 
+# CV kept local only, not published
+Mai_Xu_CV.pdf
+Mai_Xu_CV.tex
+
 # LaTeX build artifacts
 *.aux
 *.log
